@@ -126,3 +126,9 @@ Execute the program
 </html>
 ```
 # OUPUT
+
+![timetable](https://user-images.githubusercontent.com/118343998/213132042-4942929c-b1a1-4001-824b-3d38ebbe3721.png)
+
+
+
+
